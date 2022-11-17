@@ -1,0 +1,9 @@
+Sample	DGE SilePath	Reads SilePath	Soup
+S4	L:/Duncan/MZTreg_final/dLN/DGE/S4_20211025_DGE.UMI.txt	L:/Duncan/MZTreg_final/dLN/DGE/S4_20211025_readsSummary.txt	L:/Duncan/MZTreg_final/dLN/DGE/S1_20211025_soup.txt
+S5	L:/Duncan/MZTreg_final/dLN/DGE/S5_20211025_DGE.UMI.txt	L:/Duncan/MZTreg_final/dLN/DGE/S5_20211025_readsSummary.txt	L:/Duncan/MZTreg_final/dLN/DGE/S1_20211025_soup.txt
+S6	L:/Duncan/MZTreg_final/dLN/DGE/S6_20211025_DGE.UMI.txt	L:/Duncan/MZTreg_final/dLN/DGE/S6_20211025_readsSummary.txt	L:/Duncan/MZTreg_final/dLN/DGE/S1_20211025_soup.txt
+S7	L:/Duncan/MZTreg_final/dLN/DGE/S7_20211025_DGE.UMI.txt	L:/Duncan/MZTreg_final/dLN/DGE/S7_20211025_readsSummary.txt	L:/Duncan/MZTreg_final/dLN/DGE/S1_20211025_soup.txt
+S8	L:/Duncan/MZTreg_final/dLN/DGE/S8_20211025_DGE.UMI.txt	L:/Duncan/MZTreg_final/dLN/DGE/S8_20211025_readsSummary.txt	L:/Duncan/MZTreg_final/dLN/DGE/S1_20211025_soup.txt
+S9	L:/Duncan/MZTreg_final/dLN/DGE/S9_20211025_DGE.UMI.txt	L:/Duncan/MZTreg_final/dLN/DGE/S9_20211025_readsSummary.txt	L:/Duncan/MZTreg_final/dLN/DGE/S1_20211025_soup.txt
+S10	L:/Duncan/MZTreg_final/dLN/DGE/S10_20211025_DGE.UMI.txt	L:/Duncan/MZTreg_final/dLN/DGE/S10_20211025_readsSummary.txt	L:/Duncan/MZTreg_final/dLN/DGE/S1_20211025_soup.txt
+S11	L:/Duncan/MZTreg_final/dLN/DGE/S11_20211025_DGE.UMI.txt	L:/Duncan/MZTreg_final/dLN/DGE/S11_20211025_readsSummary.txt	L:/Duncan/MZTreg_final/dLN/DGE/S1_20211025_soup.txt

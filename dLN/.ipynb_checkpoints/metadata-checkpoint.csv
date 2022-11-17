@@ -1,0 +1,9 @@
+Sample,Location,Condition
+S4,Lung,tdLN
+S5,Lung,tdLN
+S6,Flank,tdLN
+S7,Flank,tdLN
+S8,Lung,naiveLN
+S9,Lung,naiveLN
+S10,Flank,naiveLN
+S11,Flank,naiveLN
